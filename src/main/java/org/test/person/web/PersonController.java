@@ -5,8 +5,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-import org.test.person.PersonServiceInterface;
 import org.test.person.entities.Person;
+import org.test.person.service.PersonServiceInterface;
 
 @Controller
 public class PersonController 

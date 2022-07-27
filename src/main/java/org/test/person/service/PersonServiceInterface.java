@@ -1,4 +1,4 @@
-package org.test.person;
+package org.test.person.service;
 
 import java.util.List;
 
